@@ -16,9 +16,14 @@ and clone again to confirm:
 
 ![image](https://user-images.githubusercontent.com/90474549/137013489-1a35817d-1bf0-42f5-be88-c5dd62595ba9.png)
 
-Now you're on the main page, you can switch to the branch you would like to work on. Do not work directly on main!
+Now you're on the main page, you can switch to the branch you would like to work on. **Do not work directly on main!**
 
 ![image](https://user-images.githubusercontent.com/90474549/137013977-0064b315-8860-4195-9884-2c98309f614d.png)
+
+Once the branch is switched, you can see what's selected:
+
+![image](https://user-images.githubusercontent.com/90474549/137015538-6e96be3a-14af-4f9e-8d20-b3f84b8a6fe2.png)
+
 
 **NOTE: When you have multiple repositories already added, please use the updated steps on how to add and clone your repository. Read this anyways.**
 
@@ -37,6 +42,10 @@ Choose the option to clone (eventually, we might make a new repository, but not 
 Select GitHub.com and then choose the repository you would like to clone and press clone.
 
 ![image](https://user-images.githubusercontent.com/90474549/137014926-371f3e30-1455-4360-8e34-53bf99242e0d.png)
+
+Repeat the steps above to switch into the proper branch. **I'll say it again. DO NOT WORK DIRECTLY ON MAIN.**
+
+![image](https://user-images.githubusercontent.com/90474549/137015656-024f1c23-d4f4-4656-b935-a988b87eba00.png)
 
 You've now cloned the online repository onto your local computer, and you are ready to make edits to the code! Progress to tutorial 3.
 
