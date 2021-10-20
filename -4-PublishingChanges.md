@@ -1,4 +1,4 @@
-#Publishing your Changes.
+#Publishing your Changes on Github
 
 Now that you have made all of the changes that you'd like in VScode (we will be doing this when editing Marlin, for example).
 
