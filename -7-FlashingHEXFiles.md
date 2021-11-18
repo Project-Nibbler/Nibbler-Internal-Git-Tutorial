@@ -23,3 +23,5 @@ Select upload custom firmware:
 (if this option is grayed out, try restarting the printer and making sure that it's getting power, replugging the printer, and restarting Cura. If none of these work, there's likely a missing CH340 driver, let me know if that's the case.)
 
 Then, navigate to the correct .hex and press ok. After about 1-2 minutes, your new firmware should be loaded. This should be a simpler way to roll between versions quickly. If the printer asks if you'd like to initialize EEPROM, say yes.
+
+That's all for this tutorial!
